@@ -11,7 +11,6 @@ To run the code, you'll need to have Python installed along with the required pa
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/Abdoubelalmi/csp-class-scheduling.git
-    cd CSP-Class-Scheduling
     ```
 
 2. **Install the required package:**
@@ -21,9 +20,9 @@ To run the code, you'll need to have Python installed along with the required pa
 
 ### Running the Code
 
-To execute the code, simply run the `schedule.py` script:
+To execute the code, simply run the `test-csp.py` script:
 ```sh
-python schedule.py
+python test-csp.py
 ```
 ## Current Parameters
 
