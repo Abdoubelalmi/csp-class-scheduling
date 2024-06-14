@@ -24,6 +24,7 @@ To run the code, you'll need to have Python installed along with the required pa
 To execute the code, simply run the `schedule.py` script:
 ```sh
 python schedule.py
+```
 Current Parameters
 ------------------
 Number of days: 5
