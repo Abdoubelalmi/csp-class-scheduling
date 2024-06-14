@@ -10,7 +10,7 @@ To run the code, you'll need to have Python installed along with the required pa
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Abdoubelalmi/csp-class-scheduling.git
     cd CSP-Class-Scheduling
     ```
 
